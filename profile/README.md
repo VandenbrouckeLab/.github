@@ -44,8 +44,8 @@ Nature Reviews Drug Discovery, 13, 904-27, 2014.
 
 
 Group leader: Prof. Dr. Roos Vandenbroucke <br  />
-Tel:+32 9 33 13730 - Fax: +32 9 221 76 73 <br  />
-Email:Roosmarijn.Vandenbroucke@irc.vib-UGent.be
+Tel: +32 9 33 13730 - Fax: +32 9 221 76 73 <br  />
+Email: Roosmarijn.Vandenbroucke@irc.vib-UGent.be
 
 <!--
 
