@@ -25,7 +25,8 @@ We currently have different research lines:
 - Matrix metalloproteinases
 - Cytokine signaling
 - Gut-brain axis
-- Technology transfer potential
+
+### Technology transfer potential
 - Identification of novel targets or strategies to treat inflammatory diseases linked to CNS barrier dysfunction
 - Development of novel delivery strategies to target the brain
 
